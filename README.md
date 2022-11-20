@@ -10,7 +10,7 @@ Hobbies: reading Wikipedia, reading car repair forums, watching car repair tutor
 
 Vices: playing Magic: the Gathering, among too many to count
 
-Goals: 1. master JS and Python, then Solidity
-       2. flash loan into a massive arbitrage opportunity
-       3. ????
-       4. PROFIT!!!
+Goals: *master JS and Python, then Solidity
+       *flash loan into a massive arbitrage opportunity
+       *????
+       *PROFIT!!!
