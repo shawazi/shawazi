@@ -20,3 +20,4 @@ Vices: playing Magic: the Gathering, among too many to count
 <br/>
 4. PROFIT!!!
 <br/>
+[![](https://visitcount.itsvg.in/api?id=shawazi&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
