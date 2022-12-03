@@ -7,7 +7,8 @@
 </div>
 <br>
 <hr>
-
+  
+<div align="left">
 Languages 🗣️: fluent English, Bengali; basic Russian;  HTML/CSS, JavaScript, Python
 
 Technologies 💻: Linux, Docker, AWS, Django, React, Bootstrap
@@ -18,6 +19,8 @@ Hobbies 🚔: reading Wikipedia, fixing cars, playing Magic: the Gathering, cons
 
 Vices 🎮: playing Magic: the Gathering, among too many to count
 
+</div>
+  
 ---
 
 ### 🔥 My Stats 
