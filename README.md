@@ -43,3 +43,7 @@ Vices 🎮: playing Magic: the Gathering, among too many to count
 
 ### ⌨️ My Languages 📢
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&theme=dracula )](https://github.com/shawazi/github-readme-stats)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shawazi&&style=flat-square" align="center" />
+</div>  
