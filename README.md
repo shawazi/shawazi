@@ -1,4 +1,5 @@
-<div align="center"> <h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shawaz. Currently working on learning enough tools to be employable. Focusing on front-end before delving further into back-end. </h3>
+<div align="center"> <h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> thanks for visiting my profile. I'm currently working on learning enough full-stack tools to be employable. I love editing English, so let me know if you have anything you want me to proofread. </h3>
+<div align="center"> <h4> shawazisonfire@gmail.com </h4> 
 </div>
 <br>
 <div align="center">
