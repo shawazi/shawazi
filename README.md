@@ -7,13 +7,13 @@
 <br>
 <hr>
 
-Languages 🗣️: fluent English, Bengali; basic Russian; basic HTML/CSS, JavaScript, Python
+Languages 🗣️: fluent English, Bengali; basic Russian;  HTML/CSS, JavaScript, Python
 
-Technologies 💻: Linux, Docker, AWS, React, Django
+Technologies 💻: Linux, Docker, AWS, Django, React, Bootstrap
 
-Experience 👷‍♂️: 7 years at restaurants as cook, cashier, and delivery driver. 8 years as an independent contractor for Uber, Lyft, and Instacart. Constant end-user experiences with various public and enterprise applications.
+Experience 👷‍♂️: 7 years at restaurants as cook, cashier, and delivery driver, then 8 years as driver for Uber, Lyft, and Instacart
 
-Hobbies 🚔: reading Wikipedia, reading car repair forums, watching car repair tutorials, performing car repairs, playing Magic: the Gathering
+Hobbies 🚔: reading Wikipedia, fixing cars, playing Magic: the Gathering, consuming information
 
 Vices 🎮: playing Magic: the Gathering, among too many to count
 
