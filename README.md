@@ -9,6 +9,7 @@
 <hr>
   
 <div align="left">
+  
 Languages 🗣️: fluent English, Bengali; basic Russian;  HTML/CSS, JavaScript, Python
 
 Technologies 💻: Linux, Docker, AWS, Django, React, Bootstrap
