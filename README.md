@@ -7,24 +7,24 @@
 <br>
 <hr>
 
-Languages: fluent English, Bengali; basic Russian; basic HTML/CSS, JavaScript, Python
+Languages 🗣️: fluent English, Bengali; basic Russian; basic HTML/CSS, JavaScript, Python
 
-Technologies: Linux, Docker, AWS, React, Django
+Technologies 💻: Linux, Docker, AWS, React, Django
 
-Experience: 7 years at restaurants as cook, cashier, and delivery driver. 8 years as an independent contractor for Uber, Lyft, and Instacart. Constant end-user experiences with various public and enterprise applications.
+Experience 👷‍♂️: 7 years at restaurants as cook, cashier, and delivery driver. 8 years as an independent contractor for Uber, Lyft, and Instacart. Constant end-user experiences with various public and enterprise applications.
 
-Hobbies: reading Wikipedia, reading car repair forums, watching car repair tutorials, performing car repairs, playing Magic: the Gathering
+Hobbies 🚔: reading Wikipedia, reading car repair forums, watching car repair tutorials, performing car repairs, playing Magic: the Gathering
 
-Vices: playing Magic: the Gathering, among too many to count
+Vices 🎮: playing Magic: the Gathering, among too many to count
 
 ---
 
-### :fire: My Stats 
+### 🔥 My Stats 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shawazi&theme=dark)](https://git.io/streak-stats) 
  <br>
  <hr>
  
-<h3> Goals </h3>
+<h3> Goals ☑️ </h3>
 1. master JS and Python, then Solidity
 <br/>
 2. flash loan into a massive arbitrage opportunity
