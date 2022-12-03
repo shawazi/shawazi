@@ -19,7 +19,7 @@ Vices: playing Magic: the Gathering, among too many to count
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shawazi&theme=dark)](https://git.io/streak-stats) 
  <br>
  <hr>
@@ -33,3 +33,8 @@ Vices: playing Magic: the Gathering, among too many to count
 <br/>
 4. PROFIT!!!
 <br/>
+
+---
+
+### ⌨️ My Languages 📢
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&theme=dracula )](https://github.com/shawazi/github-readme-stats)
