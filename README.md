@@ -43,9 +43,9 @@
   
 <div align="left">
         
-Experience 👷‍♂️: 15 years of customer service (restaurants, rideshare, delivery)
+Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery
   
-Hobbies 🚔: reading Wikipedia | fixing cars | playing Magic: the Gathering
+Hobbies 🚔: reading Wikipedia | fixing Japanese cars | playing Magic: the Gathering
         
 Interests 📖: crypto | smart contracts | stocks | fiction | English | proofreading | debugging | souls-like games
 
