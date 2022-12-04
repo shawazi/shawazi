@@ -1,4 +1,7 @@
-<div align="center"> <h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> thanks for visiting my profile. I'm currently working on learning enough full-stack tools to be employable. I love editing English, so let me know if you have anything you want me to proofread. </h3>
+<div align="center"> 
+        <h4> Welcome to my profile! </h4>
+        <p> ✍️ I love editing English so let me know if you have anything you want me to proofread 👀 </p>
+</div>
 <div align="center"> 
         <a href="https://www.linkedin.com/in/shawaz-imam-b73a4221a/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -7,7 +10,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/nTDvwuYslVMEmilQOB/giphy.gif" width="600" height="350"/>
 </div>
 <br>
 <hr>
@@ -33,13 +36,13 @@
   
 ---
 
-### ⌨️ My Stats 🔥
+### 📈 My Stats 🔥
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shawazi&theme=dark)](https://git.io/streak-stats) 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shawazi&count_private=true&theme=tokyonight&showicons=true)]()
  <br>
  <hr>
   
-<h3> About me ✍️ </h3>
+<h3> 👨‍💼 About me 👓 </h3>
   
 <div align="left">
         
