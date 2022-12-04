@@ -15,7 +15,7 @@
 <br>
 <hr>
 <div align="center">
-  <h3> 🗣️ Languages and Technologies 💻 </h3>
+  <h3> 👨‍💻 Technologies 💻 </h3>
         <p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="40" alt="Linux Tux" /> &nbsp;&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="48" />&nbsp;&nbsp;
