@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://thumbs.gfycat.com/BeneficialLongGopher-max-1mb.gif" width="600" height="350"/>
+  <img src="https://thumbs.gfycat.com/AgitatedQuerulousAfricanaugurbuzzard-size_restricted.gif" width="600" height="350"/>
 </div>
 <br>
 <hr>
