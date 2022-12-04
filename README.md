@@ -14,7 +14,7 @@
 <div align="center">
   <h3> 🗣️ Languages and Technologies 💻 </h3>
         <p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="48" alt="Linux Tux" /> &nbsp;
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="38" alt="Linux Tux" /> &nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="48" />&nbsp;&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
