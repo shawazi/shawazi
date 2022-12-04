@@ -36,23 +36,28 @@
 ### ⌨️ My Stats 🔥
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shawazi&theme=dark)](https://git.io/streak-stats) 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shawazi&count_private=true&theme=tokyonight&showicons=true)]()
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&langs_count=5&theme=tokyonight)]()
  <br>
  <hr>
- 
   
 <h3> About me ✍️ </h3>
   
 <div align="left">
-
-    Experience 👷‍♂️: 15 years of customer service (restaurants, taxi, delivery)
+        
+Experience 👷‍♂️: 15 years of customer service (restaurants, rideshare, delivery)
   
-    Hobbies 🚔: reading Wikipedia, fixing cars, playing Magic: the Gathering
+Hobbies 🚔: reading Wikipedia | fixing cars | playing Magic: the Gathering
+        
+Interests 📖: crypto | smart contracts | stocks | fiction | English | proofreading | debugging | souls-like games
 
 </div>
+        
+---
+        
+### ⌨️ My Languages 📢
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&langs_count=5&theme=tokyonight)]()
 
 ---
-
+        
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shawazi&&style=flat-square" align="center" /> 
+  <img src="https://komarev.com/ghpvc/?username=shawazi&&style=flat-square" align="center" />
 </div>  
