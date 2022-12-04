@@ -36,7 +36,7 @@
   
 ---
 
-### 📈 My Stats 🔥
+### 📈 Stats 🔥
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shawazi&theme=dark)](https://git.io/streak-stats) 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shawazi&count_private=true&theme=tokyonight&showicons=true)]()
  <br>
@@ -56,7 +56,7 @@ Interests 📖: crypto | smart contracts | stocks | fiction | English | proofrea
         
 ---
         
-### ⌨️ My Languages 📢
+### ⌨️ Languages 📢
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&langs_count=5&theme=tokyonight)]()
 
 ---
