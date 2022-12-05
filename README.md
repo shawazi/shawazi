@@ -66,3 +66,6 @@ Interests 📖: crypto | smart contracts | stocks | fiction | English | proofrea
         
 ### ⌨️ Languages 📢
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&langs_count=5&theme=tokyonight)]()
+
+---
+[![GitHub Profile Views Counter CI](https://github.com/shawazi/my-profile-views-counter/actions/workflows/action.yml/badge.svg)](https://github.com/shawazi/my-profile-views-counter/actions/workflows/action.yml)
