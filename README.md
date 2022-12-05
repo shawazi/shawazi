@@ -13,6 +13,11 @@
 <br>
 <div align="center">
   <img src="https://i.imgur.com/U0m1WMG.png" width="1000" height="600"/>
+        
+###
+        
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=126468208&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+        
 </div>
 <br>
 <hr>
