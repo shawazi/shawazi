@@ -69,7 +69,7 @@ Interests 📖: crypto | smart contracts | stocks | fiction | English | proofrea
 
 ---
 
-<img src="https://i.imgur.com/XQywCRp.jpg">        
+<img src="https://i.imgur.com/YKy8AUd.jpg">        
         
 ---        
 [![Image of https://github.com/shawazi/my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/shawazi/my-profile-views-counter)
