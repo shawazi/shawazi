@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/U0m1WMG.png" width="1000" height="600"/>
+  <img src="https://i.imgur.com/U0m1WMG.png" width="1000" height="400"/>
         
 ###
         
@@ -68,4 +68,8 @@ Interests 📖: crypto | smart contracts | stocks | fiction | English | proofrea
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&langs_count=5&theme=tokyonight)]()
 
 ---
+
+<img src="https://i.imgur.com/XQywCRp.jpg">        
+        
+---        
 [![Image of https://github.com/shawazi/my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/shawazi/my-profile-views-counter)
