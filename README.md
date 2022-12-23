@@ -56,7 +56,7 @@
         
 Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery
   
-Hobbies 🚔: reading Wikipedia | fixing Japanese cars | playing Magic: the Gathering
+Hobbies 🚔: reading Wikipedia | fixing Japanese cars | Solidity 
         
 Interests 📖: crypto | smart contracts | stocks | fiction | English | proofreading | debugging | corruption | malware | blackmail | extortion | justice | morality | suffering | altruism | infiltration | exploitation | souls-like games | reverse-engineering | Ghidra | pwntools | Kali Linux 
 
