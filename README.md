@@ -113,8 +113,8 @@ Interests 📖: crypto | smart contracts | stocks | fiction | English | proofrea
         
 ---
         
-### ⌨️ Languages | yeah this isn't working rn idk what's up 📢
-[![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shawazi&langs_count=5&theme=tokyonight)]()
+### ⌨️ Languages 📢
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&hide=c,powershell&theme=tokyonight)
 
 ---
 
