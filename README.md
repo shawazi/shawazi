@@ -103,11 +103,11 @@ target="_blank"><img
   
 <div align="left">
         
-Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery
+Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery | Magic: The Gathering
   
-Hobbies 🚔: reading Wikipedia | fixing Japanese cars | Solidity 
+Hobbies 🚔: reading Wikipedia | fixing Japanese cars | Solidity | Magic: The Gathering
         
-Interests 📖: crypto | smart contracts | stocks | fiction | English | proofreading | debugging | corruption | malware | blackmail | extortion | justice | morality | suffering | altruism | infiltration | exploitation | souls-like games | reverse-engineering | Ghidra | pwntools | Kali Linux 
+Interests 📖: crypto | smart contracts | stocks | fiction | English | proofreading | debugging | corruption | malware | blackmail | extortion | justice | morality | suffering | altruism | infiltration | exploitation | souls-like games | reverse-engineering | Ghidra | pwntools | Kali Linux | Magic: The Gathering
 
 </div>
         
