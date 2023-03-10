@@ -79,18 +79,6 @@ target="_blank"><img
 <a href="https://www.postgresql.org/" target="_blank"><img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     height="30" width="42" alt="postgresql" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    height="30" width="42" alt="mysql" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="30" width="42" alt="mongodb" /></a>
-<a href="https://www.docker.com/" target="_blank"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-    height="30" width="42" alt="docker" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-    height="30" width="42" alt="amazonwebservices" /></a>
   
 ---
 
@@ -103,11 +91,11 @@ target="_blank"><img
   
 <div align="left">
         
-Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery | Magic: The Gathering
+Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery
   
-Hobbies 🚔: reading Wikipedia | fixing Japanese cars | Solidity | Magic: The Gathering
+Hobbies 🚔: reading Wikipedia | fixing Japanese cars | gaming
         
-Interests 📖: crypto | smart contracts | stocks | fiction | English | proofreading | debugging | corruption | malware | blackmail | extortion | justice | morality | suffering | altruism | infiltration | exploitation | souls-like games | reverse-engineering | Ghidra | pwntools | Kali Linux | Magic: The Gathering
+Interests 📖: crypto | figuring out how to build a self-sustained camper 
 
 </div>
         
@@ -115,10 +103,6 @@ Interests 📖: crypto | smart contracts | stocks | fiction | English | proofrea
         
 ### ⌨️ Languages 📢
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&hide=c,powershell&theme=tokyonight)
-
----
-
-<img src="https://i.imgur.com/YKy8AUd.jpg">        
         
 ---        
 [![Image of https://github.com/shawazi/my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/shawazi/my-profile-views-counter)
