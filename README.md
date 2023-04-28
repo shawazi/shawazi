@@ -1,6 +1,6 @@
 <div align="center"> 
         <h4> Welcome to my profile! </h4>
-        <p> ✍️ I love editing English so let me know if you have anything you want me to proofread 👀 </p>
+        <p> I am in deep technical, financial, and karmic debt. These are my attempts at learning how to repay all three, probably in that order. </p>
 </div>
 <div align="center"> 
         <a href="https://www.linkedin.com/in/shawazai/" target="_blank"><img alt="LinkedIn"
