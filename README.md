@@ -3,7 +3,7 @@
         <p> I am in deep technical, financial, and karmic debt. These are my attempts at learning how to repay all three, probably in that order. </p>
 </div>
 <div align="center"> 
-        <a href="https://www.linkedin.com/in/shawazai/" target="_blank"><img alt="LinkedIn"
+        <a href="https://www.linkedin.com/in/shawazi/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 /></a>
         <a href="mailto:shawazisonfire@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="35" /></a>
