@@ -86,11 +86,11 @@ target="_blank"><img
   
 <div align="left">
         
-Experience 👷‍♂️: 15 years of customer service | restaurants | rideshare | delivery
+Experience 👷‍♂️: {'Python': '3 years experience', 'JavaScript': '1 year experience', 'TypeScript': '3 months experience'}
   
-Hobbies 🚔: reading Wikipedia | fixing Japanese cars | gaming
+Hobbies 🚔: coding
         
-Interests 📖: crypto | figuring out how to build a self-sustained camper 
+Interests 📖: coding 
 
 </div>
         
