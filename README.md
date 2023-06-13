@@ -1,6 +1,6 @@
 <div align="center"> 
         <h4> Welcome to my profile! </h4>
-        <p> I am in deep technical, financial, and karmic debt. These are my attempts at learning how to repay all three, probably in that order. </p>
+        <p> I develop web applications using Python and JavaScript </p>
 </div>
 <div align="center"> 
         <a href="https://www.linkedin.com/in/shawazi/" target="_blank"><img alt="LinkedIn"
@@ -12,12 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/U0m1WMG.png" width="1000" height="400"/>
-        
-###
-        
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=126468208&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-        
+  <img src="https://i.imgur.com/U0m1WMG.png" width="1000" height="400"/>        
 </div>
 <br>
 <hr>
