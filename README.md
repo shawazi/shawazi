@@ -98,6 +98,3 @@ Interests 📖: coding
         
 ### ⌨️ Languages 📢
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawazi&hide=c,powershell&theme=tokyonight)
-        
----        
-[![Image of https://github.com/shawazi/my-profile-views-counter](https://github.com/shawazi/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/shawazi/my-profile-views-counter)
