@@ -1,6 +1,7 @@
 <div align="center"> 
         <h4> Welcome to my profile! </h4>
-        <p> I develop web applications using Python and JavaScript </p>
+        <p> I like web dev, scripting, gcloud, terraform, rust, and Solana! </p>
+        <p> Contact me if you would like to go halvsies on a dedicated RPC node for any chain. </p>
 </div>
 <div align="center"> 
         <a href="https://www.linkedin.com/in/shawazi/" target="_blank"><img alt="LinkedIn"
@@ -86,11 +87,15 @@ target="_blank"><img
   
 <div align="left">
         
-Experience 👷‍♂️: {'Python': '3 years experience', 'JavaScript': '1 year experience', 'TypeScript': '3 months experience'}
+Experience 👷‍♂️: {
+                'Python': '4 years experience', 
+                'TypeScript': '2 years experience', 
+                'Rust': '1 year experience',
+                }
   
-Hobbies 🚔: coding
+Hobbies 🚔: { gcloud, terraform, RPC nodes }
         
-Interests 📖: coding 
+Interests 📖: { Solana, Internet Computer Protocol, PolygonPoS }
 
 </div>
         
