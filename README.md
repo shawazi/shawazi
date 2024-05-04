@@ -90,7 +90,7 @@ target="_blank"><img
 Experience 👷‍♂️: {
                 'Python': '4 years experience', 
                 'TypeScript': '2 years experience', 
-                'Rust': '1 year experience',
+                'Rust': '1 year experience'
                 }
   
 Hobbies 🚔: { gcloud, terraform, RPC nodes }
