@@ -1,6 +1,6 @@
 <div align="center"> 
         <h4> Welcome to my profile! </h4>
-        <p> Working on fullstack Solana decentralized applications using Rust and TypeScript. </p>
+        <p> Working on fullstack decentralized applications for Solana using Rust, TypeScript, AWS, Terraform, and GitHub Actions. </p>
         <p> Contact me if you would like to split the cost of a dedicated RPC node for Solana, or discuss features of optimal algorithms for trading. </p>
 </div>
 <div align="center"> 
