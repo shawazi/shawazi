@@ -1,7 +1,7 @@
 <div align="center"> 
         <h4> Welcome to my profile! </h4>
-        <p> I like web dev, scripting, gcloud, terraform, rust, and Solana! </p>
-        <p> Contact me if you would like to go halvsies on a dedicated RPC node for any chain. </p>
+        <p> Working on fullstack Solana decentralized applications using Rust and TypeScript. </p>
+        <p> Contact me if you would like to split the cost of a dedicated RPC node for Solana, or discuss features of optimal algorithms for trading. </p>
 </div>
 <div align="center"> 
         <a href="https://www.linkedin.com/in/shawazi/" target="_blank"><img alt="LinkedIn"
