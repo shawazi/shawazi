@@ -93,7 +93,7 @@ Experience 👷‍♂️: {
                 'Rust': '3 years experience'
                 }
   
-Hobbies 🚔: { gcloud, terraform, RPC nodes }
+Hobbies 🚔: { AWS, terraform, RPC nodes, Anchor }
         
 Interests 📖: { Solana, Internet Computer Protocol, PolygonPoS }
 
