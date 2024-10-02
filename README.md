@@ -1,5 +1,5 @@
 <div align="center"> 
-        <h4> Welcome to my profile! </h4>
+        <h4> Linux has consumed me </h4>
         <p> Working on fullstack decentralized applications for Solana using Rust, TypeScript, AWS, Terraform, and GitHub Actions. </p>
         <p> Contact me if you would like to split the cost of a dedicated RPC node for Solana, or discuss features of optimal algorithms for trading. </p>
 </div>
@@ -88,14 +88,15 @@ target="_blank"><img
 <div align="left">
         
 Experience 👷‍♂️: {
+                'Linux': '5 years experience',
                 'Python': '5 years experience', 
                 'TypeScript': '4 years experience', 
                 'Rust': '3 years experience'
                 }
   
-Hobbies 🚔: { AWS, terraform, RPC nodes, Anchor }
+Hobbies 🚔: { Linux, AWS, terraform, RPC nodes, Anchor }
         
-Interests 📖: { Solana, Internet Computer Protocol, PolygonPoS }
+Interests 📖: { Linux, Solana, Internet Computer Protocol, PolygonPoS }
 
 </div>
         
